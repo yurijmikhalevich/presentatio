@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<p:sld xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"
+       xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+       xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main">
+    <p:cSld>
+        <p:bg>
+            <p:bgPr>
+                <a:blipFill dpi="0" rotWithShape="1">
+                    <a:blip r:embed="rId2" cstate="print">
+                        <a:lum/>
+                    </a:blip>
+                    <a:srcRect/>
+                    <a:tile tx="0" ty="0" sx="100000" sy="100000" flip="none" algn="tl"/>
+                </a:blipFill>
+                <a:effectLst/>
+            </p:bgPr>
+        </p:bg>
+        <p:spTree>
+            <p:nvGrpSpPr>
+                <p:cNvPr id="1" name=""/>
+                <p:cNvGrpSpPr/>
+                <p:nvPr/>
+            </p:nvGrpSpPr>
+            <p:grpSpPr>
+                <a:xfrm>
+                    <a:off x="0" y="0"/>
+                    <a:ext cx="0" cy="0"/>
+                    <a:chOff x="0" y="0"/>
+                    <a:chExt cx="0" cy="0"/>
+                </a:xfrm>
+            </p:grpSpPr>
+            <p:sp>
+                <p:nvSpPr>
+                    <p:cNvPr id="2" name="Заголовок 1"/>
+                    <p:cNvSpPr>
+                        <a:spLocks noGrp="1"/>
+                    </p:cNvSpPr>
+                    <p:nvPr>
+                        <p:ph type="ctrTitle"/>
+                    </p:nvPr>
+                </p:nvSpPr>
+                <p:spPr>
+                    <a:xfrm>
+                        <a:off x="0" y="980728"/>
+                        <a:ext cx="9144000" cy="3096344"/>
+                    </a:xfrm>
+                </p:spPr>
+                <p:txBody>
+                    <a:bodyPr lIns="720000" rIns="720000">
+                        <a:normAutofit/>
+                    </a:bodyPr>
+                    <a:lstStyle/>
+                    <a:p>
+                        <a:r>
+                            <a:rPr lang="ru-RU" sz="3600" dirty="0" smtClean="0">
+                                <a:solidFill>
+                                    <a:schemeClr val="bg1"/>
+                                </a:solidFill>
+                                <a:latin typeface="Arial" pitchFamily="34" charset="0"/>
+                                <a:cs typeface="Arial" pitchFamily="34" charset="0"/>
+                            </a:rPr>
+                            <a:t>Лекция №1. Разработка и стандартизация алгоритмов шифрования в контексте операционной системы GNU/Linux</a:t>
+                        </a:r>
+                        <a:endParaRPr lang="ru-RU" sz="3600" dirty="0">
+                            <a:solidFill>
+                                <a:schemeClr val="bg1"/>
+                            </a:solidFill>
+                            <a:latin typeface="Arial" pitchFamily="34" charset="0"/>
+                            <a:cs typeface="Arial" pitchFamily="34" charset="0"/>
+                        </a:endParaRPr>
+                    </a:p>
+                </p:txBody>
+            </p:sp>
+            <p:sp>
+                <p:nvSpPr>
+                    <p:cNvPr id="3" name="Подзаголовок 2"/>
+                    <p:cNvSpPr>
+                        <a:spLocks noGrp="1"/>
+                    </p:cNvSpPr>
+                    <p:nvPr>
+                        <p:ph type="subTitle" idx="1"/>
+                    </p:nvPr>
+                </p:nvSpPr>
+                <p:spPr>
+                    <a:xfrm>
+                        <a:off x="0" y="4077072"/>
+                        <a:ext cx="9144000" cy="2304256"/>
+                    </a:xfrm>
+                </p:spPr>
+                <p:txBody>
+                    <a:bodyPr lIns="360000" rIns="360000">
+                        <a:normAutofit fontScale="92500" lnSpcReduction="10000"/>
+                    </a:bodyPr>
+                    <a:lstStyle/>
+                    <a:p>
+                        <a:r>
+                            <a:rPr lang="ru-RU" sz="2600" b="1" u="sng" dirty="0" smtClean="0">
+                                <a:solidFill>
+                                    <a:schemeClr val="bg1"/>
+                                </a:solidFill>
+                                <a:latin typeface="Arial" pitchFamily="34" charset="0"/>
+                                <a:cs typeface="Arial" pitchFamily="34" charset="0"/>
+                            </a:rPr>
+                            <a:t>Вопросы:</a:t>
+                        </a:r>
+                    </a:p>
+                    <a:p>
+                        <a:pPr marL="514350" indent="-216000">
+                            <a:buFont typeface="+mj-lt"/>
+                            <a:buAutoNum type="arabicPeriod"/>
+                        </a:pPr>
+                        <a:r>
+                            <a:rPr lang="ru-RU" sz="1900" dirty="0" smtClean="0">
+                                <a:solidFill>
+                                    <a:schemeClr val="bg1"/>
+                                </a:solidFill>
+                                <a:latin typeface="Arial" pitchFamily="34" charset="0"/>
+                                <a:cs typeface="Arial" pitchFamily="34" charset="0"/>
+                            </a:rPr>
+                            <a:t>Собака съела Павлова или Павлов – собаку?</a:t>
+                        </a:r>
+                    </a:p>
+                    <a:p>
+                        <a:pPr marL="514350" indent="-216000">
+                            <a:buFont typeface="+mj-lt"/>
+                            <a:buAutoNum type="arabicPeriod"/>
+                        </a:pPr>
+                        <a:r>
+                            <a:rPr lang="ru-RU" sz="1900" dirty="0" smtClean="0">
+                                <a:solidFill>
+                                    <a:schemeClr val="bg1"/>
+                                </a:solidFill>
+                                <a:latin typeface="Arial" pitchFamily="34" charset="0"/>
+                                <a:cs typeface="Arial" pitchFamily="34" charset="0"/>
+                            </a:rPr>
+                            <a:t>Интеграция или дезинтеграция и способы моделирования кровеносной системы
+                                обезьяноподобного человека
+                            </a:t>
+                        </a:r>
+                    </a:p>
+                    <a:p>
+                        <a:pPr marL="514350" indent="-216000">
+                            <a:buFont typeface="+mj-lt"/>
+                            <a:buAutoNum type="arabicPeriod"/>
+                        </a:pPr>
+                        <a:r>
+                            <a:rPr lang="ru-RU" sz="1900" dirty="0" smtClean="0">
+                                <a:solidFill>
+                                    <a:schemeClr val="bg1"/>
+                                </a:solidFill>
+                                <a:latin typeface="Arial" pitchFamily="34" charset="0"/>
+                                <a:cs typeface="Arial" pitchFamily="34" charset="0"/>
+                            </a:rPr>
+                            <a:t>Свободомыслие как причина развала постапокалиптического общества</a:t>
+                        </a:r>
+                    </a:p>
+                    <a:p>
+                        <a:pPr marL="514350" indent="-216000">
+                            <a:buFont typeface="+mj-lt"/>
+                            <a:buAutoNum type="arabicPeriod"/>
+                        </a:pPr>
+                        <a:r>
+                            <a:rPr lang="ru-RU" sz="1900" dirty="0" smtClean="0">
+                                <a:solidFill>
+                                    <a:schemeClr val="bg1"/>
+                                </a:solidFill>
+                                <a:latin typeface="Arial" pitchFamily="34" charset="0"/>
+                                <a:cs typeface="Arial" pitchFamily="34" charset="0"/>
+                            </a:rPr>
+                            <a:t>Съедобные люди, как сырьё для откорма домашнего скота</a:t>
+                        </a:r>
+                    </a:p>
+                    <a:p>
+                        <a:pPr marL="514350" indent="-216000">
+                            <a:buFont typeface="+mj-lt"/>
+                            <a:buAutoNum type="arabicPeriod"/>
+                        </a:pPr>
+                        <a:r>
+                            <a:rPr lang="ru-RU" sz="1900" dirty="0" smtClean="0">
+                                <a:solidFill>
+                                    <a:schemeClr val="bg1"/>
+                                </a:solidFill>
+                                <a:latin typeface="Arial" pitchFamily="34" charset="0"/>
+                                <a:cs typeface="Arial" pitchFamily="34" charset="0"/>
+                            </a:rPr>
+                            <a:t>Печенье и тёмная сторон силы. Стоит ли?</a:t>
+                        </a:r>
+                        <a:endParaRPr lang="ru-RU" sz="1900" dirty="0">
+                            <a:solidFill>
+                                <a:schemeClr val="bg1"/>
+                            </a:solidFill>
+                            <a:latin typeface="Arial" pitchFamily="34" charset="0"/>
+                            <a:cs typeface="Arial" pitchFamily="34" charset="0"/>
+                        </a:endParaRPr>
+                    </a:p>
+                </p:txBody>
+            </p:sp>
+            <p:pic>
+                <p:nvPicPr>
+                    <p:cNvPr id="4" name="Рисунок 3" descr="logo_white.png"/>
+                    <p:cNvPicPr>
+                        <a:picLocks noChangeAspect="1"/>
+                    </p:cNvPicPr>
+                    <p:nvPr/>
+                </p:nvPicPr>
+                <p:blipFill>
+                    <a:blip r:embed="rId3" cstate="print"/>
+                    <a:stretch>
+                        <a:fillRect/>
+                    </a:stretch>
+                </p:blipFill>
+                <p:spPr>
+                    <a:xfrm>
+                        <a:off x="-180528" y="-171400"/>
+                        <a:ext cx="3870640" cy="1030139"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                        <a:avLst/>
+                    </a:prstGeom>
+                </p:spPr>
+            </p:pic>
+            <p:sp>
+                <p:nvSpPr>
+                    <p:cNvPr id="5" name="TextBox 4"/>
+                    <p:cNvSpPr txBox="1"/>
+                    <p:nvPr/>
+                </p:nvSpPr>
+                <p:spPr>
+                    <a:xfrm>
+                        <a:off x="4499992" y="87015"/>
+                        <a:ext cx="4644008" cy="461665"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                        <a:avLst/>
+                    </a:prstGeom>
+                    <a:noFill/>
+                </p:spPr>
+                <p:txBody>
+                    <a:bodyPr wrap="square" rtlCol="0">
+                        <a:spAutoFit/>
+                    </a:bodyPr>
+                    <a:lstStyle/>
+                    <a:p>
+                        <a:pPr algn="r"/>
+                        <a:r>
+                            <a:rPr lang="ru-RU" sz="1200" dirty="0">
+                                <a:solidFill>
+                                    <a:schemeClr val="bg1"/>
+                                </a:solidFill>
+                                <a:latin typeface="Arial" pitchFamily="34" charset="0"/>
+                                <a:cs typeface="Arial" pitchFamily="34" charset="0"/>
+                            </a:rPr>
+                            <a:t>кафедра электротехники, теплотехники и возобновляемых источников энергии</a:t>
+                        </a:r>
+                        <a:endParaRPr lang="ru-RU" sz="1200" dirty="0">
+                            <a:solidFill>
+                                <a:schemeClr val="bg1"/>
+                            </a:solidFill>
+                            <a:latin typeface="Arial" pitchFamily="34" charset="0"/>
+                            <a:cs typeface="Arial" pitchFamily="34" charset="0"/>
+                        </a:endParaRPr>
+                    </a:p>
+                </p:txBody>
+            </p:sp>
+            <p:sp>
+                <p:nvSpPr>
+                    <p:cNvPr id="6" name="TextBox 5"/>
+                    <p:cNvSpPr txBox="1"/>
+                    <p:nvPr/>
+                </p:nvSpPr>
+                <p:spPr>
+                    <a:xfrm>
+                        <a:off x="0" y="6597352"/>
+                        <a:ext cx="9144000" cy="261610"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                        <a:avLst/>
+                    </a:prstGeom>
+                    <a:noFill/>
+                </p:spPr>
+                <p:txBody>
+                    <a:bodyPr wrap="square" lIns="360000" rtlCol="0">
+                        <a:spAutoFit/>
+                    </a:bodyPr>
+                    <a:lstStyle/>
+                    <a:p>
+                        <a:r>
+                            <a:rPr lang="ru-RU" sz="1100" dirty="0" smtClean="0">
+                                <a:solidFill>
+                                    <a:schemeClr val="bg1"/>
+                                </a:solidFill>
+                                <a:latin typeface="Arial" pitchFamily="34" charset="0"/>
+                                <a:cs typeface="Arial" pitchFamily="34" charset="0"/>
+                            </a:rPr>
+                            <a:t>Автор: Юрий Михалевич</a:t>
+                        </a:r>
+                        <a:endParaRPr lang="ru-RU" sz="1100" dirty="0">
+                            <a:solidFill>
+                                <a:schemeClr val="bg1"/>
+                            </a:solidFill>
+                            <a:latin typeface="Arial" pitchFamily="34" charset="0"/>
+                            <a:cs typeface="Arial" pitchFamily="34" charset="0"/>
+                        </a:endParaRPr>
+                    </a:p>
+                </p:txBody>
+            </p:sp>
+            <p:sp>
+                <p:nvSpPr>
+                    <p:cNvPr id="7" name="TextBox 6"/>
+                    <p:cNvSpPr txBox="1"/>
+                    <p:nvPr/>
+                </p:nvSpPr>
+                <p:spPr>
+                    <a:xfrm>
+                        <a:off x="0" y="548680"/>
+                        <a:ext cx="9144000" cy="276999"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                        <a:avLst/>
+                    </a:prstGeom>
+                    <a:noFill/>
+                </p:spPr>
+                <p:txBody>
+                    <a:bodyPr wrap="square" rtlCol="0">
+                        <a:spAutoFit/>
+                    </a:bodyPr>
+                    <a:lstStyle/>
+                    <a:p>
+                        <a:pPr algn="ctr"/>
+                        <a:r>
+                            <a:rPr lang="ru-RU" sz="1200" dirty="0" smtClean="0">
+                                <a:solidFill>
+                                    <a:schemeClr val="bg1"/>
+                                </a:solidFill>
+                                <a:latin typeface="Arial" pitchFamily="34" charset="0"/>
+                                <a:cs typeface="Arial" pitchFamily="34" charset="0"/>
+                            </a:rPr>
+                            <a:t>математические и логические основы компьютерных систем</a:t>
+                        </a:r>
+                        <a:endParaRPr lang="ru-RU" sz="1200" dirty="0">
+                            <a:solidFill>
+                                <a:schemeClr val="bg1"/>
+                            </a:solidFill>
+                            <a:latin typeface="Arial" pitchFamily="34" charset="0"/>
+                            <a:cs typeface="Arial" pitchFamily="34" charset="0"/>
+                        </a:endParaRPr>
+                    </a:p>
+                </p:txBody>
+            </p:sp>
+        </p:spTree>
+    </p:cSld>
+    <p:clrMapOvr>
+        <a:masterClrMapping/>
+    </p:clrMapOvr>
+</p:sld>

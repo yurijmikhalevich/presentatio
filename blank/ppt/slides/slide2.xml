@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<p:sld xmlns:a="http://schemas.openxmlformats.org/drawingml/2006/main"
+       xmlns:r="http://schemas.openxmlformats.org/officeDocument/2006/relationships"
+       xmlns:p="http://schemas.openxmlformats.org/presentationml/2006/main">
+    <p:cSld>
+        <p:bg>
+            <p:bgPr>
+                <a:blipFill dpi="0" rotWithShape="1">
+                    <a:blip r:embed="rId2" cstate="print">
+                        <a:lum/>
+                    </a:blip>
+                    <a:srcRect/>
+                    <a:tile tx="0" ty="0" sx="100000" sy="100000" flip="none" algn="tl"/>
+                </a:blipFill>
+                <a:effectLst/>
+            </p:bgPr>
+        </p:bg>
+        <p:spTree>
+            <p:nvGrpSpPr>
+                <p:cNvPr id="1" name=""/>
+                <p:cNvGrpSpPr/>
+                <p:nvPr/>
+            </p:nvGrpSpPr>
+            <p:grpSpPr>
+                <a:xfrm>
+                    <a:off x="0" y="0"/>
+                    <a:ext cx="0" cy="0"/>
+                    <a:chOff x="0" y="0"/>
+                    <a:chExt cx="0" cy="0"/>
+                </a:xfrm>
+            </p:grpSpPr>
+            <p:sp>
+                <p:nvSpPr>
+                    <p:cNvPr id="2" name="Заголовок 1"/>
+                    <p:cNvSpPr>
+                        <a:spLocks noGrp="1"/>
+                    </p:cNvSpPr>
+                    <p:nvPr>
+                        <p:ph type="ctrTitle"/>
+                    </p:nvPr>
+                </p:nvSpPr>
+                <p:spPr>
+                    <a:xfrm>
+                        <a:off x="0" y="764704"/>
+                        <a:ext cx="9144000" cy="216024"/>
+                    </a:xfrm>
+                    <a:solidFill>
+                        <a:srgbClr val="00814B"/>
+                    </a:solidFill>
+                    <a:ln>
+                        <a:noFill/>
+                    </a:ln>
+                </p:spPr>
+                <p:style>
+                    <a:lnRef idx="2">
+                        <a:schemeClr val="accent3">
+                            <a:shade val="50000"/>
+                        </a:schemeClr>
+                    </a:lnRef>
+                    <a:fillRef idx="1">
+                        <a:schemeClr val="accent3"/>
+                    </a:fillRef>
+                    <a:effectRef idx="0">
+                        <a:schemeClr val="accent3"/>
+                    </a:effectRef>
+                    <a:fontRef idx="minor">
+                        <a:schemeClr val="lt1"/>
+                    </a:fontRef>
+                </p:style>
+                <p:txBody>
+                    <a:bodyPr lIns="360000" rIns="360000">
+                        <a:noAutofit/>
+                    </a:bodyPr>
+                    <a:lstStyle/>
+                    <a:p>
+                        <a:r>
+                            <a:rPr lang="ru-RU" sz="1100" dirty="0" smtClean="0">
+                                <a:latin typeface="Arial" pitchFamily="34" charset="0"/>
+                                <a:cs typeface="Arial" pitchFamily="34" charset="0"/>
+                            </a:rPr>
+                            <a:t>Лекция №1. Разработка и стандартизация алгоритмов шифрования в контексте операционной системы GNU/Linux</a:t>
+                        </a:r>
+                        <a:endParaRPr lang="ru-RU" sz="1100" dirty="0">
+                            <a:latin typeface="Arial" pitchFamily="34" charset="0"/>
+                            <a:cs typeface="Arial" pitchFamily="34" charset="0"/>
+                        </a:endParaRPr>
+                    </a:p>
+                </p:txBody>
+            </p:sp>
+            <p:sp>
+                <p:nvSpPr>
+                    <p:cNvPr id="5" name="TextBox 4"/>
+                    <p:cNvSpPr txBox="1"/>
+                    <p:nvPr/>
+                </p:nvSpPr>
+                <p:spPr>
+                    <a:xfrm>
+                        <a:off x="4499992" y="87015"/>
+                        <a:ext cx="4644008" cy="461665"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                        <a:avLst/>
+                    </a:prstGeom>
+                    <a:noFill/>
+                </p:spPr>
+                <p:txBody>
+                    <a:bodyPr wrap="square" rtlCol="0">
+                        <a:spAutoFit/>
+                    </a:bodyPr>
+                    <a:lstStyle/>
+                    <a:p>
+                        <a:pPr algn="r"/>
+                        <a:r>
+                            <a:rPr lang="ru-RU" sz="1200" dirty="0">
+                                <a:latin typeface="Arial" pitchFamily="34" charset="0"/>
+                                <a:cs typeface="Arial" pitchFamily="34" charset="0"/>
+                            </a:rPr>
+                            <a:t>кафедра электротехники, теплотехники и возобновляемых источников энергии</a:t>
+                        </a:r>
+                        <a:endParaRPr lang="ru-RU" sz="1200" dirty="0">
+                            <a:latin typeface="Arial" pitchFamily="34" charset="0"/>
+                            <a:cs typeface="Arial" pitchFamily="34" charset="0"/>
+                        </a:endParaRPr>
+                    </a:p>
+                </p:txBody>
+            </p:sp>
+            <p:sp>
+                <p:nvSpPr>
+                    <p:cNvPr id="6" name="TextBox 5"/>
+                    <p:cNvSpPr txBox="1"/>
+                    <p:nvPr/>
+                </p:nvSpPr>
+                <p:spPr>
+                    <a:xfrm>
+                        <a:off x="0" y="6597352"/>
+                        <a:ext cx="9144000" cy="261610"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                        <a:avLst/>
+                    </a:prstGeom>
+                    <a:noFill/>
+                </p:spPr>
+                <p:txBody>
+                    <a:bodyPr wrap="square" lIns="360000" rtlCol="0">
+                        <a:spAutoFit/>
+                    </a:bodyPr>
+                    <a:lstStyle/>
+                    <a:p>
+                        <a:r>
+                            <a:rPr lang="ru-RU" sz="1100" dirty="0" smtClean="0">
+                                <a:latin typeface="Arial" pitchFamily="34" charset="0"/>
+                                <a:cs typeface="Arial" pitchFamily="34" charset="0"/>
+                            </a:rPr>
+                            <a:t>Автор: Юрий Михалевич</a:t>
+                        </a:r>
+                        <a:endParaRPr lang="ru-RU" sz="1100" dirty="0">
+                            <a:latin typeface="Arial" pitchFamily="34" charset="0"/>
+                            <a:cs typeface="Arial" pitchFamily="34" charset="0"/>
+                        </a:endParaRPr>
+                    </a:p>
+                </p:txBody>
+            </p:sp>
+            <p:sp>
+                <p:nvSpPr>
+                    <p:cNvPr id="7" name="TextBox 6"/>
+                    <p:cNvSpPr txBox="1"/>
+                    <p:nvPr/>
+                </p:nvSpPr>
+                <p:spPr>
+                    <a:xfrm>
+                        <a:off x="0" y="548680"/>
+                        <a:ext cx="9144000" cy="276999"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                        <a:avLst/>
+                    </a:prstGeom>
+                    <a:noFill/>
+                </p:spPr>
+                <p:txBody>
+                    <a:bodyPr wrap="square" rtlCol="0">
+                        <a:spAutoFit/>
+                    </a:bodyPr>
+                    <a:lstStyle/>
+                    <a:p>
+                        <a:pPr algn="ctr"/>
+                        <a:r>
+                            <a:rPr lang="ru-RU" sz="1200" dirty="0" smtClean="0">
+                                <a:latin typeface="Arial" pitchFamily="34" charset="0"/>
+                                <a:cs typeface="Arial" pitchFamily="34" charset="0"/>
+                            </a:rPr>
+                            <a:t>математические и логические основы компьютерных систем</a:t>
+                        </a:r>
+                        <a:endParaRPr lang="ru-RU" sz="1200" dirty="0">
+                            <a:latin typeface="Arial" pitchFamily="34" charset="0"/>
+                            <a:cs typeface="Arial" pitchFamily="34" charset="0"/>
+                        </a:endParaRPr>
+                    </a:p>
+                </p:txBody>
+            </p:sp>
+            <p:pic>
+                <p:nvPicPr>
+                    <p:cNvPr id="8" name="Рисунок 7" descr="logo_black.png"/>
+                    <p:cNvPicPr>
+                        <a:picLocks noChangeAspect="1"/>
+                    </p:cNvPicPr>
+                    <p:nvPr/>
+                </p:nvPicPr>
+                <p:blipFill>
+                    <a:blip r:embed="rId3" cstate="print"/>
+                    <a:stretch>
+                        <a:fillRect/>
+                    </a:stretch>
+                </p:blipFill>
+                <p:spPr>
+                    <a:xfrm>
+                        <a:off x="-252536" y="-171400"/>
+                        <a:ext cx="4004741" cy="1066712"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                        <a:avLst/>
+                    </a:prstGeom>
+                </p:spPr>
+            </p:pic>
+            <p:sp>
+                <p:nvSpPr>
+                    <p:cNvPr id="10" name="Заголовок 1"/>
+                    <p:cNvSpPr txBox="1">
+                        <a:spLocks/>
+                    </p:cNvSpPr>
+                    <p:nvPr/>
+                </p:nvSpPr>
+                <p:spPr>
+                    <a:xfrm>
+                        <a:off x="0" y="980728"/>
+                        <a:ext cx="9144000" cy="288032"/>
+                    </a:xfrm>
+                    <a:prstGeom prst="rect">
+                        <a:avLst/>
+                    </a:prstGeom>
+                    <a:gradFill>
+                        <a:gsLst>
+                            <a:gs pos="0">
+                                <a:srgbClr val="00814B"/>
+                            </a:gs>
+                            <a:gs pos="80000">
+                                <a:schemeClr val="accent3">
+                                    <a:shade val="93000"/>
+                                    <a:satMod val="130000"/>
+                                </a:schemeClr>
+                            </a:gs>
+                            <a:gs pos="100000">
+                                <a:schemeClr val="accent3">
+                                    <a:shade val="94000"/>
+                                    <a:satMod val="135000"/>
+                                </a:schemeClr>
+                            </a:gs>
+                        </a:gsLst>
+                    </a:gradFill>
+                    <a:ln/>
+                </p:spPr>
+                <p:style>
+                    <a:lnRef idx="1">
+                        <a:schemeClr val="accent3"/>
+                    </a:lnRef>
+                    <a:fillRef idx="3">
+                        <a:schemeClr val="accent3"/>
+                    </a:fillRef>
+                    <a:effectRef idx="2">
+                        <a:schemeClr val="accent3"/>
+                    </a:effectRef>
+                    <a:fontRef idx="minor">
+                        <a:schemeClr val="lt1"/>
+                    </a:fontRef>
+                </p:style>
+                <p:txBody>
+                    <a:bodyPr vert="horz" lIns="360000" tIns="45720" rIns="360000" bIns="45720" rtlCol="0" anchor="ctr">
+                        <a:normAutofit fontScale="97500"/>
+                    </a:bodyPr>
+                    <a:lstStyle/>
+                    <a:p>
+                        <a:pPr marL="0" marR="0" lvl="0" indent="0" algn="ctr" defTabSz="914400" rtl="0" eaLnBrk="1"
+                               fontAlgn="auto" latinLnBrk="0" hangingPunct="1">
+                            <a:lnSpc>
+                                <a:spcPct val="100000"/>
+                            </a:lnSpc>
+                            <a:spcBef>
+                                <a:spcPct val="0"/>
+                            </a:spcBef>
+                            <a:spcAft>
+                                <a:spcPts val="0"/>
+                            </a:spcAft>
+                            <a:buClrTx/>
+                            <a:buSzTx/>
+                            <a:buFontTx/>
+                            <a:buNone/>
+                            <a:tabLst/>
+                            <a:defRPr/>
+                        </a:pPr>
+                        <a:r>
+                            <a:rPr lang="ru-RU" sz="1100" dirty="0" smtClean="0">
+                                <a:latin typeface="Arial" pitchFamily="34" charset="0"/>
+                                <a:cs typeface="Arial" pitchFamily="34" charset="0"/>
+                            </a:rPr>
+                            <a:t>Вопрос №2. Интеграция или дезинтеграция и способы моделирования кровеносной системы
+                                обезьяноподобного человека
+                            </a:t>
+                        </a:r>
+                        <a:endParaRPr kumimoji="0" lang="ru-RU" sz="1100" b="0" i="0" u="none" strike="noStrike"
+                                      kern="1200" cap="none" spc="0" normalizeH="0" baseline="0" noProof="0" dirty="0"
+                                      smtClean="0">
+                            <a:ln>
+                                <a:noFill/>
+                            </a:ln>
+                            <a:solidFill>
+                                <a:schemeClr val="lt1"/>
+                            </a:solidFill>
+                            <a:effectLst/>
+                            <a:uLnTx/>
+                            <a:uFillTx/>
+                            <a:latin typeface="Arial" pitchFamily="34" charset="0"/>
+                            <a:ea typeface="+mn-ea"/>
+                            <a:cs typeface="Arial" pitchFamily="34" charset="0"/>
+                        </a:endParaRPr>
+                    </a:p>
+                </p:txBody>
+            </p:sp>
+        </p:spTree>
+    </p:cSld>
+    <p:clrMapOvr>
+        <a:masterClrMapping/>
+    </p:clrMapOvr>
+</p:sld>
